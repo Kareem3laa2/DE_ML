@@ -1,0 +1,4 @@
+{"timestamp":"2025-07-04T17:05:53.875080","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-04T17:05:53.875692","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/telco_to_hdfs_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-04T17:05:56.024408Z","level":"info","event":"File uploaded to /data/telco/telco_churn.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-04T17:05:56.024502","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

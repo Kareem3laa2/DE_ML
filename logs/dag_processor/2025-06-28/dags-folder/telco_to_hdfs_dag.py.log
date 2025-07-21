@@ -1,0 +1,1 @@
+{"timestamp":"2025-06-28T07:55:30.525338","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/telco_to_hdfs_dag.py","logger":"airflow.models.dagbag.DagBag"}
